@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publiclearningcenter.com",
+    "description": "",
+    "home_page_url": "https://publiclearningcenter.com",
+    "feed_url": "https://publiclearningcenter.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://publiclearningcenter.com/education-of-tommorrow.html",
+            "url": "https://publiclearningcenter.com/education-of-tommorrow.html",
+            "title": "education of tomorrow",
+            "summary": "NOW! That is when we need to upgrade our education system of our society. We intent to bridge all gaps&hellip;",
+            "content_html": "<p>NOW! That is when we need to upgrade our education system of our society. We intent to bridge all gaps worldwide in education systems and bring students and educators together.</p>",
+            "image": "https://publiclearningcenter.com/media/posts/1/sweethoneyIllus_v20_225998939328252_00001_.png",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-30T19:36:20-04:00",
+            "date_modified": "2026-05-30T19:41:03-04:00"
+        }
+    ]
+}
